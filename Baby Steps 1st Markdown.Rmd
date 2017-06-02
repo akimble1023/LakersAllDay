@@ -13,7 +13,7 @@ library(ggplot2)
 
 ## Andrew's World
 
-Andrew will be a Graduating Senior Spring 2018 at the Unsinkable Albany State University, he is majoring in Forensic Science and plans to work with the FBI upon Graduation.
+Andrew is a graduate from Iowa State University and he is majored in Forensic Science.He plans on going to graduate school Fall 2017 at UCLA.
 
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
